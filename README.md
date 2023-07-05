@@ -11,8 +11,8 @@ Make sure you have the required dependencies installed, so you can run the tests
 - Node.js
   - Download and install [Node](https://nodejs.org/en).
 - Yarn
-  - Check if Node and NPM are installed correctly by running `bash node -v` and `bash npm -v`
-  - Install Yarn by running `bash npm i -g yarn`
+  - Check if Node and NPM are installed correctly by running `node -v` and `npm -v`
+  - Install Yarn by running `npm i -g yarn`
 
 ### Installing Test Dependencies
 
